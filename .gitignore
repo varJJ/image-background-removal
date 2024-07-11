@@ -1,0 +1,7 @@
+# Excluir archivos y directorios específicos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Excluir archivos específicos de macOS
+.DS_Store
